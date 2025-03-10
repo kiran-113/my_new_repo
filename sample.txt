@@ -1,1 +1,13 @@
 some text
+
+some new test
+
+git clone
+
+git status
+
+git add . git add filename
+
+git commit -m "some description"
+
+git push
