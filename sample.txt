@@ -11,3 +11,5 @@ git add . git add filename
 git commit -m "some description"
 
 git push
+
+git rm remove files
